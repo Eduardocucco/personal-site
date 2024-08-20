@@ -12,7 +12,7 @@ export default class Portfolio extends Component {
     return (
       <Container id="portfolio">
         <Fade direction="up" triggerOnce duration={1000} damping={1}>
-          <CategoryTitle>Portfólio</CategoryTitle>
+          <CategoryTitle>Portfolio</CategoryTitle>
           <CategoryText>
             Some personal projects that I have developed or am currently developing.
           </CategoryText>
