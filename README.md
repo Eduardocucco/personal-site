@@ -2,7 +2,6 @@
 
 # My Portfolio
 My Portfolio in React. <br />
-You can access [Here]().
 
 ## To set up the project locally:
 1. Clone the repository
