@@ -10,4 +10,4 @@ My Portfolio in React. <br />
 4. Run npm start
 
 ## Technologies useds
-HTML, CSS, JavaScript, React, esLint, tailwindcss
+HTML, CSS, JavaScript, React.
