@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { FaGithub, FaWhatsapp, FaLinkedinIn, FaTwitter } from "react-icons/fa";
+import { FaGithub, FaWhatsapp, FaLinkedinIn } from "react-icons/fa";
 
 import { LinkIconContainers, IconsLinks } from "../style/aside";
 
@@ -12,9 +12,6 @@ export default class Aside extends Component {
         </IconsLinks>
         <IconsLinks href="https://wa.me/5548996373621?text=Oi%20%3A)">
           <FaWhatsapp />
-        </IconsLinks>
-        <IconsLinks href="">
-          <FaTwitter />
         </IconsLinks>
         <IconsLinks href="https://github.com/Eduardocucco">
           <FaGithub />

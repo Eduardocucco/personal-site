@@ -25,10 +25,9 @@ export default function Skills() {
         <SkillsContentContainer>
           <TechNameUl>
             <TechNameLi color="#EFD81D">Javascript</TechNameLi>
-            <TechNameLi color="#5ED3F3">React Native</TechNameLi>
+            <TechNameLi color="#5ED3F3">TypeScript</TechNameLi>
             <TechNameLi color="#E84E32">React</TechNameLi>
-            <TechNameLi color="#7248B6">Redux</TechNameLi>
-            <TechNameLi color="#3594CF">Css</TechNameLi>
+            <TechNameLi color="#3594CF">CSS</TechNameLi>
             <TechNameLi color="#2391E6">HTML</TechNameLi>
             <TechNameLi color="#E84E32">Git</TechNameLi>
             <TechNameLi color="#43853d">NodeJS</TechNameLi>
